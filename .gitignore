@@ -1,0 +1,5 @@
+## Python binary files
+*.pyc
+
+## Settings file
+settings.py
